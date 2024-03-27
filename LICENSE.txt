@@ -24,6 +24,8 @@ single ZIP file or a single repository can contain multiple components
 where the sources have different license models. The valid license is in
 the header of each source file.
 
+Bla Bla
+
 Following are basic rules on how the OPC Foundation licenses the
 different components:
 
